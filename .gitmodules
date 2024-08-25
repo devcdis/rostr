@@ -1,3 +1,12 @@
 [submodule "nostr-admin-panel"]
 	path = nostr-admin-panel
 	url = https://github.com/devcdis/nostr-admin-panel
+[submodule "rostr_merchant_app"]
+	path = rostr_merchant_app
+	url = https://github.com/devcdis/rostr_merchant_app
+[submodule "nostream"]
+	path = nostream
+	url = https://github.com/devcdis/nostream
+[submodule "rostr-customer-app"]
+	path = rostr-customer-app
+	url = https://github.com/devcdis/rostr-customer-app
