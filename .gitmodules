@@ -1,0 +1,3 @@
+[submodule "nostr-admin-panel"]
+	path = nostr-admin-panel
+	url = https://github.com/devcdis/nostr-admin-panel
